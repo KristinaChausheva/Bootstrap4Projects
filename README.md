@@ -1,4 +1,4 @@
 # Bootstrap4Projects
-
-Lab project is published at https://kristinachausheva.github.io/Lab/ \
-Mizuxe project is published at https://kristinachausheva.github.io/Mizuxe/
+CECLII project is published at https://kristinachausheva.github.io/C-E-C-L-I-I/
+Lab demoproject is published at https://kristinachausheva.github.io/Lab/ \
+Mizuxe demoproject is published at https://kristinachausheva.github.io/Mizuxe/
